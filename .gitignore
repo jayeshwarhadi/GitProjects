@@ -1,10 +1,6 @@
 # Files for my testing purposes
 test
 
-# Main logic hidden in Chess Directry (Provided for verified interviews)
-on-going/chess/logic.c
-
-
 
 
 ## Ignore Visual Studio temporary files, build results, and
