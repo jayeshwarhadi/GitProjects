@@ -1,0 +1,2 @@
+Finished projects which are left to be polished stay here 
+polished means .. added comments , simplified code , etc.
